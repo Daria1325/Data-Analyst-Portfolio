@@ -1,0 +1,408 @@
+launch_place,id,place,city,Oblast,Country,latitude,longitude
+Ryazan oblast,19,Ryazan oblast,,Central Federal District,Russia,54.4226732,40.5705246
+Rostov oblast,20,Rostov oblast,,Southern Federal District,Russia,47.6222451,40.7957942
+Rostov oblast,287,Rostov oblast,,Southern Federal District,Russia,47.6222451,40.7957942
+Rostov oblast,707,Rostov oblast,,Southern Federal District,Russia,47.6222451,40.7957942
+Caspian Sea,22,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,28,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,50,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,56,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,68,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,77,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,78,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,88,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,98,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,103,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,112,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,123,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,128,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,136,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,182,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,185,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,202,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,245,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,254,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,258,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,269,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,270,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,272,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,276,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,283,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,288,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,310,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,312,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,371,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,384,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,409,Caspian Sea,,,,41.7789772,50.560757905794325
+Caspian Sea,670,Caspian Sea,,,,41.7789772,50.560757905794325
+Black Sea,22,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,28,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,32,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,39,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,43,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,49,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,68,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,77,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,79,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,80,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,81,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,82,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,88,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,95,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,98,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,113,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,125,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,129,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,137,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,142,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,148,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,155,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,157,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,159,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,201,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,220,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,230,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,232,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,275,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,285,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,303,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,314,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,316,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,322,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,329,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,338,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,351,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,353,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,354,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,355,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,358,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,361,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,365,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,366,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,370,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,373,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,380,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,383,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,401,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,402,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,408,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,440,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,497,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,520,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,609,Black Sea,,,,43.87282395,33.99380770501095
+Black Sea,643,Black Sea,,,,43.87282395,33.99380770501095
+Kursk oblast,25,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,116,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,138,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,246,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,336,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,337,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,357,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,377,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,398,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,410,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,417,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,419,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,422,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,423,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,446,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,495,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,496,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,501,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,504,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,519,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,534,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,535,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,546,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,567,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,574,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,592,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,603,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,604,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,622,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,623,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,631,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,672,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Kursk oblast,689,Kursk oblast,,Central Federal District,Russia,51.6568453,36.4852695
+Belarus,25,Belarus,,,Belarus,53.4250605,27.6971358
+Belarus,46,Belarus,,,Belarus,53.4250605,27.6971358
+Belarus,75,Belarus,,,Belarus,53.4250605,27.6971358
+Volgodonsk,50,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,56,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,68,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,73,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,77,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,78,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,98,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Volgodonsk,128,Volgodonsk,Volgodonsk,Southern Federal District,Russia,47.5128177,42.1717606
+Zaporizhzhia oblast,65,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,248,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,470,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,474,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,487,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,530,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,561,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Zaporizhzhia oblast,635,Zaporizhzhia oblast,,,,47.9611068,30.601522
+Saratov,88,Saratov,Saratov,410000,Russia,51.530018,46.034683
+Sea of Azov,88,Sea of Azov,,,,46.196729,36.73570655151333
+Sea of Azov,115,Sea of Azov,,,,46.196729,36.73570655151333
+Sea of Azov,246,Sea of Azov,,,,46.196729,36.73570655151333
+Sea of Azov,308,Sea of Azov,,,,46.196729,36.73570655151333
+Kursk obalst,115,Kursk obalst,,,,,
+Belgorod,130,Belgorod,Belgorod,Central Federal District,Russia,50.5955595,36.5873394
+Tokmak,130,Tokmak,,,,47.2550191,35.7092206
+Tokmak,253,Tokmak,,,,47.2550191,35.7092206
+Melitopol,139,Melitopol,Melitopol,72300-72324,Ukraine,46.8467267,35.3827281
+Melitopol,140,Melitopol,Melitopol,72300-72324,Ukraine,46.8467267,35.3827281
+Bryansk oblast,145,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,156,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,158,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,163,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,172,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,186,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,190,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,191,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,257,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,266,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,267,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,271,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,304,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,379,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,601,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,622,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,674,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,676,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Bryansk oblast,698,Bryansk oblast,,Central Federal District,Russia,52.8873315,33.415853
+Morozovsk,160,Morozovsk,,,,48.352379,41.828762
+Olenegorsk,185,Olenegorsk,,,,68.140732,33.282597
+Tarkhankut,197,Tarkhankut,,,,45.49672835,33.27060744033745
+"Bryansk oblast, Seshcha",198,"Bryansk oblast, Seshcha",,,,53.732101,33.335701
+"Bryansk oblast, Seshcha",592,"Bryansk oblast, Seshcha",,,,53.732101,33.335701
+Crimea,247,Crimea,,,,45.28350435,34.20081877526554
+Crimea,356,Crimea,,,,45.28350435,34.20081877526554
+Crimea,359,Crimea,,,,45.28350435,34.20081877526554
+Crimea,360,Crimea,,,,45.28350435,34.20081877526554
+Crimea,364,Crimea,,,,45.28350435,34.20081877526554
+Crimea,367,Crimea,,,,45.28350435,34.20081877526554
+Crimea,368,Crimea,,,,45.28350435,34.20081877526554
+Crimea,431,Crimea,,,,45.28350435,34.20081877526554
+Crimea,510,Crimea,,,,45.28350435,34.20081877526554
+Crimea,511,Crimea,,,,45.28350435,34.20081877526554
+Crimea,521,Crimea,,,,45.28350435,34.20081877526554
+Crimea,594,Crimea,,,,45.28350435,34.20081877526554
+Krasnodar Krai,257,Krasnodar Krai,,Southern Federal District,Russia,45.7684014,39.0261044
+Primorsko-Akhtarsk,320,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,330,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,331,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,334,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,335,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,337,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,341,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,352,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,374,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,377,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,388,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,394,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,399,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,403,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,410,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,412,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,413,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,414,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,417,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,418,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,420,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,421,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,422,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,424,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,425,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,427,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,429,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,435,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,439,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,442,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,444,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,446,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,448,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,479,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,480,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,485,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,488,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,495,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,501,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,515,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,519,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,528,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,532,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,533,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,534,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,536,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,540,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,546,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,547,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,553,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,555,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,557,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,558,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,562,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,567,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,578,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,588,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,591,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,592,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,595,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,597,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,599,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,603,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,604,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,605,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,607,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,613,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,617,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,618,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,628,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,631,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,632,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,640,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,654,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,689,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,691,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,694,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,703,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,706,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+Primorsko-Akhtarsk,708,Primorsko-Akhtarsk,,,,46.043181,38.1554803
+"Dzhankoi, Crimea",339,"Dzhankoi, Crimea",,,,,
+"Dzhankoi, Crimea",450,"Dzhankoi, Crimea",,,,,
+"Dzhankoi, Crimea",484,"Dzhankoi, Crimea",,,,,
+"Dzhankoi, Crimea",529,"Dzhankoi, Crimea",,,,,
+"Dzhankoi, Crimea",538,"Dzhankoi, Crimea",,,,,
+"Dzhankoi, Crimea",665,"Dzhankoi, Crimea",,,,,
+"Chauda, Crimea",349,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",352,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",357,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",377,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",394,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",399,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",412,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",413,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",414,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",417,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",418,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",422,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",423,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",425,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",427,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",442,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",444,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",445,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",446,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",449,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",451,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",452,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",453,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",455,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",460,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",472,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",475,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",477,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",507,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",519,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",555,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",557,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",558,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",560,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",565,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",574,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",577,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",581,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",588,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",595,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",600,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",603,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",604,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",611,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",628,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",631,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",632,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",640,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",654,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",665,"Chauda, Crimea",,,,45.004342,35.8307884
+"Chauda, Crimea",703,"Chauda, Crimea",,,,45.004342,35.8307884
+Tula oblast,386,Tula oblast,,Central Federal District,Russia,53.9570701,37.3690909
+Lipetsk oblast,386,Lipetsk oblast,,Central Federal District,Russia,52.6935178,39.1122664
+"Black Sea, Yalta",389,"Black Sea, Yalta",,,,44.4943894,34.1658786
+"Black Sea, Yalta",390,"Black Sea, Yalta",,,,44.4943894,34.1658786
+Soltsy-2,391,Soltsy-2,,,,58.119003,30.309679
+Shaykovka,391,Shaykovka,,,,54.22504385,34.3736813999417
+Engels-2,392,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,406,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,409,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,415,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,426,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,433,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,663,Engels-2,,,,51.48398655,46.21080349538265
+Engels-2,697,Engels-2,,,,51.48398655,46.21080349538265
+Olenya,392,Olenya,,,,69.2138694,33.3734516
+Olenya,624,Olenya,,,,69.2138694,33.3734516
+Olenya,641,Olenya,,,,69.2138694,33.3734516
+Kherson oblast,407,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,461,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,502,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,508,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,509,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,516,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,517,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,554,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,559,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,566,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,593,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,634,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+Kherson oblast,675,Kherson oblast,,Kherson Oblast,Ukraine,46.5421715,33.4079326
+"Black Sea, Feodosia",411,"Black Sea, Feodosia",,,,,
+Yeysk,420,Yeysk,,,,46.7112094,38.2747987
+Yeysk,421,Yeysk,,,,46.7112094,38.2747987
+Yeysk,423,Yeysk,,,,46.7112094,38.2747987
+Volgograd oblast,428,Volgograd oblast,,Southern Federal District,Russia,49.6048339,44.2903582
+"Sevastopol, Crimea",441,"Sevastopol, Crimea",,,,44.7705724,34.22935804574608
+Belgorod oblast,455,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,471,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,486,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,522,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,563,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,579,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,661,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,664,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,666,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,673,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,685,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,690,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,696,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,699,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,700,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Belgorod oblast,704,Belgorod oblast,,Central Federal District,Russia,50.7080119,37.5837615
+Donetsk oblast,471,Donetsk oblast,,83000-87999,Ukraine,47.9212914,37.7809825
+Donetsk oblast,537,Donetsk oblast,,83000-87999,Ukraine,47.9212914,37.7809825
+Donetsk oblast,710,Donetsk oblast,,83000-87999,Ukraine,47.9212914,37.7809825
+Voronezh oblast,481,Voronezh oblast,,Central Federal District,Russia,50.9800393,40.1506507
+Voronezh oblast,699,Voronezh oblast,,Central Federal District,Russia,50.9800393,40.1506507
+Voronezh oblast,709,Voronezh oblast,,Central Federal District,Russia,50.9800393,40.1506507
+Saratov oblast,580,Saratov oblast,,Volga Federal District,Russia,51.6520555,46.8631952
+"Belbek, Crimea",581,"Belbek, Crimea",,,,44.6131942,33.8799431
+"Balaklava, Crimea",585,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",586,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",588,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",600,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",605,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",611,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",613,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",617,"Balaklava, Crimea",,,,44.445375,33.907605
+"Balaklava, Crimea",632,"Balaklava, Crimea",,,,44.445375,33.907605
+Savasleyka,590,Savasleyka,,,,55.4551605,42.3115555
+Astrakhan oblast,625,Astrakhan oblast,,Southern Federal District,Russia,47.1878186,47.608851
+Primorsko-Akhtarske,659,Primorsko-Akhtarske,,,,,
+Primorsko-Akhtarske,660,Primorsko-Akhtarske,,,,,
+Ryazan,662,Ryazan,Ryazan,Central Federal District,Russia,54.6295687,39.7425039
+Tambov,662,Tambov,Tambov,Central Federal District,Russia,52.731118499999994,41.434199146086904
+Tambov,671,Tambov,Tambov,Central Federal District,Russia,52.731118499999994,41.434199146086904
+Luhansk oblast,692,Luhansk oblast,,Luhansk Oblast,Ukraine,49.2724587,38.9150477
+Oryol oblast,698,Oryol oblast,,Central Federal District,Russia,52.8392765,36.4251709
